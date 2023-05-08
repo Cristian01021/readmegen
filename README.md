@@ -19,6 +19,3 @@ Once the process is finished, the console will display the message "Success," in
 ## Credits
 Tutor: Andrew H 
 Youtube Video: https://www.youtube.com/watch?v=cqJQ9wbUQto 
-## Demonstration Video
-
-![Demo Video](/asset/demovid.mp4)
